@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
     calculadoraContainer: {
         flex: 1,
         justifyContent: 'flex-end',
-        paddingHorizontal: 20,
+        //paddingHorizontal: 20,
     },
 
     resultado: {

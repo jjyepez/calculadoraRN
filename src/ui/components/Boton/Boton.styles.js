@@ -2,8 +2,9 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
     boton: {
-        height: 74,
-        width: 74,
+        //flex:1,
+        //height: '25vw',
+        //width: 70,
         backgroundColor: '#969696',
         borderRadius: 100,
         justifyContent: 'center',
